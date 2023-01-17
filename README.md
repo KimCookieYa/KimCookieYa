@@ -31,7 +31,7 @@
 <br/><br/><br/>
 
 
-![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
+![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true)
 </div>
 
 
