@@ -11,6 +11,7 @@
 <a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 <a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://instagram.com/99_k_alstjr" target="_blank"><img src="https://img.shields.io/badge/99_k_alstjr-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=min49590)](https://solved.ac/min49590)
 
 부산대학교 4학년, 취업준비생   
 
@@ -29,7 +30,7 @@
   
 <br/><br/><br/>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min49590)](https://solved.ac/min49590)
+
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
 </div>
 
