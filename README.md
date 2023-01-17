@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 인턴 또는 부트캠프 준비 중
 
 ## Skill Set
-<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
