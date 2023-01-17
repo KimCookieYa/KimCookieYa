@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
-<a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
-<a href="https://instagram.com/99_k_alstjr" target="_blank"><img src="https://img.shields.io/badge/99_k_alstjr-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://instagram.com/99_k_alstjr" target="_blank"><img src="https://img.shields.io/badge/99_k_alstjr-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 부산대학교 4학년, 취업준비생   
 이더리움/클레이튼 블록체인 메인넷 개발자로 진화 중   
