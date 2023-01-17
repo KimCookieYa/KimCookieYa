@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
-<a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
+<a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://instagram.com/99_k_alstjr" target="_blank"><img src="https://img.shields.io/badge/99_k_alstjr-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 
 부산대학교 4학년, 취업준비생   
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Skill Set
 <a target="_blank"><img src="https://img.shields.io/badge/CPP-F7DF1E?style=flat-square&logo=cpp&logoColor=00599C"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Ethereum-716B94?style=flat-square&logo=ethereum&logoColor=3C3C3D"/></a>
 <br/>
