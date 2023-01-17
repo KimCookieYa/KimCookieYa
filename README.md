@@ -29,5 +29,5 @@
   <br/><br/>
 
 
-  ![Kim-Cookie's GitHub stats](https://github-readme-stats.vercel.app/api?username="Kim-Cookie"&show_icons=true&theme=default)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="Kim-Cookie"&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![KimCookieYa's GitHub stats](https://github-readme-stats.vercel.app/api?username="KimCookieYa"&show_icons=true&theme=default)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="KimCookieYa"&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
