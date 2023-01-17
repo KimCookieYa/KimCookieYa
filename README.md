@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 인턴 또는 부트캠프 준비 중
 
 ### Skill Set
-<a target="_blank"><img src="https://img.shields.io/badge/CPP-FFFFFF?style=flat-square&logo='c++'&logoColor=00599C"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/CPP-FFFFFF?style=flat-square&logo='C++'&logoColor=00599C"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JS-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Solidity-FFFFFF?style=flat-square&logo=solidity&logoColor=363636"/></a>
