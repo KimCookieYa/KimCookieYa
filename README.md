@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48cbd9&height=270&section=header&text=Welcome!&fontSize=90&fontColor=FFFFFF)
 
 <div align="center">
-  
-  ### 👋 Hi there 👋
 
   <!--
   **Kim-Cookie/Kim-Cookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
