@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 <a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
+부산대학교 4학년, 취업준비생
+
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
