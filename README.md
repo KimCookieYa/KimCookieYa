@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 <a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
 부산대학교 4학년, 취업준비생
+인턴 또는 부트캠프 준비 중
+
+## Skill Set
+<img src="https://img.shields.io/badge/#F7DF1E-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
