@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a target="_blank"><img src="https://img.shields.io/badge/Ethereum-716B94?style=flat-square&logo=ethereum&logoColor=3C3C3D"/></a>
 
 
-![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
+| [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min49590)](https://solved.ac/min49590) | ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical) |
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min49590)](https://solved.ac/min49590)
+
