@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Skill Set
 <a target="_blank"><img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=363636"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Solidity-rightblue?style=for-the-badge&logo=solidity&logoColor=363636"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Ethereum-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=3C3C3D"/></a>
 
 
