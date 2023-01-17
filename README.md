@@ -28,7 +28,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Ethereum-716B94?style=flat-square&logo=ethereum&logoColor=3C3C3D"/></a>
   
-<br/><br/><br/>
+<br/><br/>
 
 
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=default)
