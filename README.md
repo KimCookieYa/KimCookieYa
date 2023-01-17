@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Wolcome!&fontSize=90)
 ### 👋 Hi there 👋
 
 <!--
@@ -25,5 +26,8 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min49590)](https://solved.ac/min49590)
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
+</div>
+
+
 
 
