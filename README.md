@@ -5,7 +5,7 @@
   ### 👋 Hi there 👋
 
   <!--
-  **min49590/min49590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Kim-Cookie/Kim-Cookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   -->
 
   <a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
@@ -31,5 +31,5 @@
   <br/><br/>
 
 
-  ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=default)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min49590&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Kim-Cookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Cookie&show_icons=true&theme=default)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Cookie&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
