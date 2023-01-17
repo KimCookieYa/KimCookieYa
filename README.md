@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 부산대학교 4학년, 취업준비생
 이더리움/클레이튼 블록체인 메인넷 개발자로 진화 중
-인턴 또는 부트캠프 준비 중
+인턴 또는 부트캠프 준비 중.
 
 ### Skill Set
 <a target="_blank"><img src="https://img.shields.io/badge/CPP-F7DF1E?style=flat-square&logo='C++'&logoColor=00599C"/></a>
