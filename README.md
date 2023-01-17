@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
+<a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
