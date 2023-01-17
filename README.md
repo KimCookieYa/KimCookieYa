@@ -18,6 +18,7 @@
 
 인턴 또는 부트캠프 준비 중   
 
+<br/><br/>
 ### Skill Set
 <a target="_blank"><img src="https://img.shields.io/badge/CPP-F7DF1E?style=flat-square&logo=cpp&logoColor=00599C"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>
