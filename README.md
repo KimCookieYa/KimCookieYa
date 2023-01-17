@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![Min49590's GitHub stats](https://github-readme-stats.vercel.app/api?username=min49590&show_icons=true&theme=radical)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min49590)](https://solved.ac/min49590)
