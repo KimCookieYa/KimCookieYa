@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <a href="https://insengnewbie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
 부산대학교 4학년, 취업준비생
+이더리움/클레이튼 블록체인 메인넷 개발자로 진화 
 인턴 또는 부트캠프 준비 중
 
-## Skill Set
-<img src="https://img.shields.io/badge/JS-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+### Skill Set
+<a target="_blank"><img src="https://img.shields.io/badge/JS-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Solidity-FFFFFF?style=flat-square&logo=solidity&logoColor=363636"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Ethereum-FFFFFF?style=flat-square&logo=ethereum&logoColor=3C3C3D"/></a>
