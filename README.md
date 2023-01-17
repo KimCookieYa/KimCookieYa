@@ -20,7 +20,7 @@
 
 <br/><br/>
   
-## Skill Set
+# Skill Set
 <a target="_blank"><img src="https://img.shields.io/badge/CPP-F7DF1E?style=flat-square&logo=cpp&logoColor=00599C"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/></a>
