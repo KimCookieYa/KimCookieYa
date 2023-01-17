@@ -1,18 +1,7 @@
-### Hi there 👋
+### 👋 Hi there 👋
 
 <!--
 **min49590/min49590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <a href="https://velog.io/@min49590" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
@@ -20,7 +9,9 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/99_k_alstjr" target="_blank"><img src="https://img.shields.io/badge/99_k_alstjr-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 부산대학교 4학년, 취업준비생   
+
 이더리움/클레이튼 블록체인 메인넷 개발자로 진화 중   
+
 인턴 또는 부트캠프 준비 중   
 
 ### Skill Set
