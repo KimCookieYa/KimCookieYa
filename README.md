@@ -16,13 +16,11 @@
   
   PNU 4학년, 취업준비생   
   
-  블록체인 서비스 개발자 준비 중   
+  크래프톤 정글 2기 교육생
   
   부산대학교 블록체인 학회 PUBL 소속
   
-  Evolving as a Ethereum & Klaytn Blockchain Mainnet Development   
-  
-  Preparing for Internship or Bootcamp   
+  Preparing for Internship   
   
   <br/><br/>
   
