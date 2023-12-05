@@ -35,11 +35,6 @@
 - MailBadara (개인 프로젝트) (풀스택): 2023.09.27 ~ 2023.11.24
   - [부산대학교 학생들을 위한 학과 홈페이지 뉴스레터 구독 서비스](https://github.com/KimCookieYa/PNU_Mail_Badara)
 
-<div hidden>
-- AID 동아리 홈페이지 (팀프로젝트) (FE): 2023.09.01 ~ Current
-  - [부산대학교 인공지능 학회 AID 동아리 리뉴얼 프로젝트](https://github.com/PNU-AID/homepage)
-</div>
-
 <br />
 <hr />
 
