@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=200&section=header&text=KimCookieYa%20Github&fontSize=80&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=200&section=header&text=KimCookieYa%20Github&fontSize=60&fontColor=FFFFFF" />
 
   <span style="font-size:20;">
     <a href="./docs/김민석의 Resume.pdf" style="color:white;">Resume</a>
@@ -27,6 +27,7 @@
 | **External activities** |     2023.04 ~ 2023.08      |              크래프톤 정글 2기              |       **Krafton**        |
 | **External activities** | 2023.09 ~ Expected 2024.08 |        부산대학교 인공지능 학회 AID         | **Pusan National Univ.** |
 | **External activities** |          2023.11           |                 ABB 해커톤                  |      **대구광역시**      |
+|       **Career**        |     2023.12 ~ 2024.02      |           겨울방학 현장실습(인턴)           |  **(주)센디 (벤디츠)**   |
 
 ## 📂 Projects
 
@@ -34,6 +35,8 @@
   - [웹 기반 실시간 대전 보드 게임](https://github.com/KJ2B-HandsUp/client)
 - MailBadara (개인 프로젝트) (풀스택): 2023.09.27 ~ 2023.11.24
   - [부산대학교 학생들을 위한 학과 홈페이지 뉴스레터 구독 서비스](https://github.com/KimCookieYa/PNU_Mail_Badara)
+- 동아리 홈페이지 리뉴얼 프로젝트 (팀프로젝트) (FE): 2023.11.18 ~ Current
+  - [부산대학교 인공지능 학회 AID의 동아리 홈페이지 리뉴얼 프로젝트](https://github.com/PNU-AID/homepage)
 
 <br />
 <hr />
