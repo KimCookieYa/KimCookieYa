@@ -7,6 +7,22 @@ USER_AGENT = (
     "+https://github.com/KimCookieYa/KimCookieYa)"
 )
 
+CELL_WIDTH = 280
+IMAGE_MAX_HEIGHT = 180
+TITLE_MAX_LEN = 40
+DESCRIPTION_MAX_LEN = 50
+
+
+def escape_html(text):
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def truncate(text, max_len):
+    text = text.strip()
+    if len(text) <= max_len:
+        return text
+    return text[: max_len - 3] + "..."
+
 
 def clean_html(raw_html):
     """HTML 태그 제거하고 텍스트만 추출하는 함수"""
@@ -43,47 +59,62 @@ def format_date(date_str):
         return date_str
 
 
+def format_cell(entry):
+    """단일 블로그 포스트 셀 HTML 생성"""
+    thumbnail = get_thumbnail(entry)
+    title = truncate(entry.title.replace("|", ""), TITLE_MAX_LEN)
+    link = entry.link
+    description = truncate(
+        clean_html(entry.get("description", "")), DESCRIPTION_MAX_LEN
+    )
+    pub_date = format_date(entry.get("published", ""))
+    safe_title = escape_html(title)
+
+    if thumbnail:
+        image_html = (
+            f'<a href="{link}">'
+            f'<img src="{thumbnail}" width="{CELL_WIDTH}" '
+            f'style="max-width:100%;height:auto;object-fit:contain;'
+            f'max-height:{IMAGE_MAX_HEIGHT}px;display:block;margin:0 auto;" '
+            f'alt="{safe_title}"></a>'
+        )
+    else:
+        image_html = f'<div style="height:{IMAGE_MAX_HEIGHT}px;"></div>'
+
+    return (
+        f'<td width="33%" valign="top" align="center" '
+        f'style="width:33%;vertical-align:top;text-align:center;">'
+        f'{image_html}<br>'
+        f'<b><a href="{link}">{safe_title}</a></b><br>'
+        f'<sub>{escape_html(description)}</sub><br>'
+        f'<sub>{pub_date}</sub>'
+        f"</td>"
+    )
+
+
 def create_blog_table(feed_url, max_posts=6):
-    """RSS 피드에서 블로그 글을 가져와 3x2 테이블 형태의 마크다운 생성"""
+    """RSS 피드에서 블로그 글을 가져와 3x2 HTML 테이블 생성"""
     feed = feedparser.parse(feed_url, agent=USER_AGENT)
     entries = feed.entries[:max_posts]
 
-    table = "| | | |\n"
-    table += "|---|---|---|\n"
+    table = '<table width="100%">\n'
 
     for i in range(0, len(entries), 3):
         row_entries = entries[i : i + 3]
-        row = "|"
+        table += "<tr>\n"
 
         for entry in row_entries:
-            thumbnail = get_thumbnail(entry)
-            title = entry.title.replace("|", "")
-            link = entry.link
-            description = clean_html(entry.get("description", ""))[:50] + "..."
-            pub_date = format_date(entry.get("published", ""))
+            table += format_cell(entry)
 
-            image_html = ""
-            if thumbnail:
-                image_html = (
-                    f'<a href="{link}">'
-                    f'<img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br>'
-                )
-
-            # GitHub markdown tables require each cell on a single line
-            cell = (
-                f"{image_html}"
-                f"<b><a href='{link}'>{title}</a></b><br>"
-                f"{description}<br>"
-                f"{pub_date}"
+        for _ in range(3 - len(row_entries)):
+            table += (
+                f'<td width="33%" valign="top" '
+                f'style="width:33%;vertical-align:top;">&nbsp;</td>\n'
             )
-            row += f" {cell} |"
 
-        while len(row_entries) < 3:
-            row += " |"
-            row_entries.append(None)
+        table += "</tr>\n"
 
-        table += row + "\n"
-
+    table += "</table>\n"
     return table
 
 
