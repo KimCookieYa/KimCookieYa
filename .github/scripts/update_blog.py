@@ -16,7 +16,7 @@ def clean_html(raw_html):
     """HTML 태그 제거하고 텍스트만 추출하는 함수"""
     cleantext = re.sub(r"<.*?>", "", raw_html)
     cleantext = re.sub(r"\s+", " ", cleantext)
-    cleantext = cleantext.replace("|", "").replace('"', "'")
+    cleantext = cleantext.replace("|", "").replace('"', "'").replace("&nbsp;", " ")
     return cleantext.strip()
 
 
@@ -61,16 +61,17 @@ def create_blog_table(feed_url, max_posts=6):
 
         for entry in row_entries:
             thumbnail = get_thumbnail(entry)
-            title = entry.title
+            title = entry.title.replace("|", "")
             link = entry.link
             description = clean_html(entry.get("description", ""))[:50] + "..."
             pub_date = format_date(entry.get("published", ""))
 
+            # GitHub markdown tables require each cell on a single line
             cell = (
                 f'<a href="{link}">'
-                f'<img src="{thumbnail}" width="300" height="200" alt="{title}"></a>\n\n'
-                f"**[{title}]({link})**\n"
-                f"{description}\n"
+                f'<img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br>'
+                f"<b><a href='{link}'>{title}</a></b><br>"
+                f"{description}<br>"
                 f"{pub_date}"
             )
             row += f" {cell} |"
