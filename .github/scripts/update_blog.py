@@ -2,10 +2,6 @@ import feedparser
 import re
 from datetime import datetime
 
-DEFAULT_THUMBNAIL = (
-    "https://github.com/user-attachments/assets/"
-    "9ffcad01-a362-4ad3-b3eb-f648be5d75de"
-)
 USER_AGENT = (
     "Mozilla/5.0 (compatible; GitHubActions/1.0; "
     "+https://github.com/KimCookieYa/KimCookieYa)"
@@ -35,7 +31,7 @@ def get_thumbnail(entry):
         if img_match:
             return img_match.group(1)
 
-    return DEFAULT_THUMBNAIL
+    return None
 
 
 def format_date(date_str):
@@ -66,10 +62,16 @@ def create_blog_table(feed_url, max_posts=6):
             description = clean_html(entry.get("description", ""))[:50] + "..."
             pub_date = format_date(entry.get("published", ""))
 
+            image_html = ""
+            if thumbnail:
+                image_html = (
+                    f'<a href="{link}">'
+                    f'<img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br>'
+                )
+
             # GitHub markdown tables require each cell on a single line
             cell = (
-                f'<a href="{link}">'
-                f'<img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br>'
+                f"{image_html}"
                 f"<b><a href='{link}'>{title}</a></b><br>"
                 f"{description}<br>"
                 f"{pub_date}"
