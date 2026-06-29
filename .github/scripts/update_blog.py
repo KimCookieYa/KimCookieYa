@@ -82,8 +82,8 @@ def format_cell(entry):
         image_html = f'<div style="height:{IMAGE_MAX_HEIGHT}px;"></div>'
 
     return (
-        f'<td width="33%" valign="top" align="center" '
-        f'style="width:33%;vertical-align:top;text-align:center;">'
+        f'<td width="33%" valign="bottom" align="center" '
+        f'style="width:33%;vertical-align:bottom;text-align:center;">'
         f'{image_html}<br>'
         f'<b><a href="{link}">{safe_title}</a></b><br>'
         f'<sub>{escape_html(description)}</sub><br>'
