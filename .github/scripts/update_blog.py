@@ -108,8 +108,8 @@ def create_blog_table(feed_url, max_posts=6):
 
         for _ in range(3 - len(row_entries)):
             table += (
-                f'<td width="33%" valign="top" '
-                f'style="width:33%;vertical-align:top;">&nbsp;</td>\n'
+                f'<td width="33%" valign="bottom" '
+                f'style="width:33%;vertical-align:bottom;">&nbsp;</td>\n'
             )
 
         table += "</tr>\n"
