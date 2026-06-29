@@ -12,6 +12,10 @@
 | 2024.07 ~ Current | FE 엔지니어        | (주)센디 |
 | 2023.12 ~ 2024.06 | FE 엔지니어(인턴)   | (주)센디 |
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🗓️ Activity
 
 | Type      | Date                       | Contents                                                                                        | Org.                 |
