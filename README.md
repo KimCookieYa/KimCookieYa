@@ -12,13 +12,38 @@
 | 2024.07 ~ Current | FE 엔지니어        | (주)센디 |
 | 2023.12 ~ 2024.06 | FE 엔지니어(인턴)   | (주)센디 |
 
-## Blog posts
+## 📝 Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+| | | |
+|---|---|---|
+| <a href="https://insengnewbie.tistory.com/654"><img src="https://github.com/user-attachments/assets/9ffcad01-a362-4ad3-b3eb-f648be5d75de" width="300" height="200" alt="센디 SEO 3배 개선기(2) - 페이지를 빠르게 만들기"></a>
+
+**[센디 SEO 3배 개선기(2) - 페이지를 빠르게 만들기](https://insengnewbie.tistory.com/654)**
+1편에서 이어서 진행하겠습니다. 제가 어쩌다가 SEO를 맡게 되었는지 궁금하시다면 1편을 ...
+2026.06.28 | <a href="https://insengnewbie.tistory.com/653"><img src="https://blog.kakaocdn.net/dn/buyvxW/dJMcaf78sTa/S0VtbL9dkjQDQiwlH4pnq0/img.png" width="300" height="200" alt="센디 SEO 3배 개선기(1) - 어쩌다 SEO를 맡게 되었나"></a>
+
+**[센디 SEO 3배 개선기(1) - 어쩌다 SEO를 맡게 되었나](https://insengnewbie.tistory.com/653)**
+어느 날, CTO님이 말했습니다 '요즘 페이지가 좀 느린 것 같지 않아요?' &nbsp; ...
+2026.06.23 | <a href="https://insengnewbie.tistory.com/652"><img src="https://blog.kakaocdn.net/dn/bBvciX/dJMcajvS7gj/iDc6x26b4eD8S1cJJdqZJK/img.png" width="300" height="200" alt="[서평] 가족이라는 사치"></a>
+
+**[[서평] 가족이라는 사치](https://insengnewbie.tistory.com/652)**
+&nbsp; 일시: 2026-06-14 ~ 2026-06-19 제목: 가족이라는 사치 - ...
+2026.06.19 |
+| <a href="https://insengnewbie.tistory.com/651"><img src="https://github.com/user-attachments/assets/9ffcad01-a362-4ad3-b3eb-f648be5d75de" width="300" height="200" alt="[회고] 나의 동기에 대하여"></a>
+
+**[[회고] 나의 동기에 대하여](https://insengnewbie.tistory.com/651)**
+최근 들어 동기부여가 잘 되지 않는다. 스스로 정체되어 있음을 느낀다. &nbsp; 처음에...
+2026.06.15 | <a href="https://insengnewbie.tistory.com/650"><img src="https://blog.kakaocdn.net/dn/Q4iNE/dJMcaglv0f0/3BX4ba4WgJoYb7k0V2T5RK/img.png" width="300" height="200" alt="[서평] 박곰희 연금부자수업"></a>
+
+**[[서평] 박곰희 연금부자수업](https://insengnewbie.tistory.com/650)**
+&nbsp; 노후준비가 뭔지도 모르겠고 막막하기만 한 사람들에게 추천하고 싶은 책. &nb...
+2026.06.12 | <a href="https://insengnewbie.tistory.com/649"><img src="https://github.com/user-attachments/assets/9ffcad01-a362-4ad3-b3eb-f648be5d75de" width="300" height="200" alt="[서평] 생각 중독 - 생각이 너무 많은 사람에게"></a>
+
+**[[서평] 생각 중독 - 생각이 너무 많은 사람에게](https://insengnewbie.tistory.com/649)**
+https://product.kyobobook.co.kr/detail/S0002126017...
+2026.06.08 |
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗓️ Activity
