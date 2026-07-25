@@ -1,16 +1,17 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://insengnewbie.tistory.com)
 [![Instagram KimCookieYa](https://img.shields.io/badge/KimCookieYa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/KimCookieYa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-760635241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimcookieya/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:min49590@gmail.com)
 
-[Resume](./docs/김민석의%20Resume.pdf) | [Portfolio](https://kimcookieya.notion.site/Portfolio-b30f8a5319d64d1e933130d680703abd?pvs=4) (updated 2024.02.15)
+[Resume](./docs/김민석의-Resume.md) | [Portfolio](./docs/김민석의-Portfolio.md) (updated 2026.07.25)
+
+Next.js, React, TypeScript로 물류 서비스의 고객용 웹·운영 콘솔·운송관리 웹·기사 웹을 개발·운영합니다. 복잡한 운영 업무를 웹 UI로 구조화하고, 레거시를 점진적으로 현대화하며, 테스트·배포·보안·관측성·SEO까지 프론트엔드 시스템 전반을 개선합니다.
 
 ## 🕰️ Career
 
-| Date              | Career           | Org.  |
-|-------------------|------------------|-------|
-| 2024.07 ~ Current | FE 엔지니어        | (주)센디 |
-| 2023.12 ~ 2024.06 | FE 엔지니어(인턴)   | (주)센디 |
+| Date              | Career            | Org.  |
+|-------------------|-------------------|-------|
+| 2023.12 ~ Current | 프론트엔드 엔지니어 | (주)센디 |
 
 ## 📝 Posts
 
@@ -26,27 +27,30 @@
 
 ## 🗓️ Activity
 
-| Type      | Date                       | Contents                                                                                        | Org.                 |
-|-----------|----------------------------|-------------------------------------------------------------------------------------------------|----------------------|
-| Awards    | 2024.08                    | [XRP Ledger Hackathon Seoul 2024 - (Track 4) 1'st Winner](https://insengnewbie.tistory.com/577) | XRPL Korea           |
-| Awards    | 2024.05                    | [khuthon 2024 - 최우수상](https://insengnewbie.tistory.com/549)                                     | 경희대학교 소프트웨어교육센터      |
-| Awards    | 2023.11                    | [ABB 해커톤 - 우수상](https://insengnewbie.tistory.com/484)                                           | 대구광역시                |
-| Activity  | 2023.09 ~ Expected 2025.02 | 부산대학교 인공지능 동아리, AID                                                                             | Pusan National Univ. |
-| Education | 2023.04 ~ 2023.08          | [크래프톤 정글 2기](https://insengnewbie.tistory.com/424)                                              | Krafton              |
-| Awards    | 2022.11                    | 부산 지역기술 활성화를 위한 블록체인 해커톤 - 우수상                                                                  | Pusan B-Space        |
-| Education | 2022.04 ~ 2022.06          | 부산 지역산업 블록체인 dAPP 개발 과정                                                                         | ICT 이노베이션스퀘어         |
-| Education | 2018.03 ~ Expected 2025.02 | Computer Science and Engineering                                                                | Pusan National Univ. |
+| Type      | Date                | Contents                                                                                        | Org.                 |
+|-----------|---------------------|-------------------------------------------------------------------------------------------------|----------------------|
+| Awards    | 2024.08             | [XRP Ledger Hackathon Seoul 2024 - (Track 4) 1'st Winner](https://insengnewbie.tistory.com/577) | XRPL Korea           |
+| Awards    | 2024.05             | [khuthon 2024 - 최우수상](https://insengnewbie.tistory.com/549)                                     | 경희대학교 소프트웨어교육센터      |
+| Awards    | 2023.11             | [ABB 해커톤 - 우수상](https://insengnewbie.tistory.com/484)                                           | 대구광역시                |
+| Activity  | 2023.09 ~ 2025.02   | 부산대학교 인공지능 동아리, AID                                                                             | Pusan National Univ. |
+| Education | 2023.04 ~ 2023.08   | [크래프톤 정글 2기](https://insengnewbie.tistory.com/424)                                              | Krafton              |
+| Awards    | 2022.11             | 부산 지역기술 활성화를 위한 블록체인 해커톤 - 우수상                                                                  | Pusan B-Space        |
+| Education | 2022.04 ~ 2022.06   | 부산 지역산업 블록체인 dAPP 개발 과정                                                                         | ICT 이노베이션스퀘어         |
+| Education | 2018.03 ~ 2025.02   | Computer Science and Engineering                                                                | Pusan National Univ. |
 
 ## 📂 Projects
 
-- 크래프톤 정글 (팀프로젝트) (FE)
-    - 2023.06.29 ~ 2023.08.12
-    - [웹 기반 실시간 대전 보드 게임](https://github.com/KJ2B-HandsUp/client)
-- MailBadara (개인 프로젝트) (풀스택)
-    - 2023.09.27 ~ Current
-    - [부산대학교 학생들을 위한 학과 홈페이지 뉴스레터 구독 서비스](https://github.com/KimCookieYa/PNU_Mail_Badara)
-- 부산대학교 2023년도 후기 졸업과제 - 탈중앙 식별자 및 영지식증명을 활용한 신원증명시스템 구현 (FE)
-    - 2023.12.05 ~ 2023.06.21
-    - [탈중앙 식별자 및 영지식증명을 활용한 신원증명시스템 구현](https://github.com/2024-Circular-Reference/identity-verify-WAS)
+- 센디 웹 SEO 성장 및 테크니컬 SEO 최적화
+    - 랜딩 정적화, Core Web Vitals, 구조화 데이터, canonical·사이트맵, 콘텐츠 시스템 구축
+    - 약 7개월간 개선을 이어가며 웹 트래픽 약 3배 증가
+    - [관련 글](https://insengnewbie.tistory.com/653)
+- 운송관리 그리드 기반 인라인 편집 화면 구축
+    - 주문 조회·수정·배차 흐름을 데이터 그리드 중심으로 통합
+    - React Query 캐시 패치, legacy/신규 경로 분리로 점진적 전환
+- AI QA·브라우저 인증·PR 증거 계약 표준화
+    - Claude Code·Codex용 브라우저 인증, QA 검증, PR evidence pack 자동화
+    - 비밀 정보와 에이전트 실행 권한 분리
+- 검색엔진·생성형 AI 대응 뉴스룸 구축
+    - Markdown 기반 정적 콘텐츠, JSON-LD, sitemap, 작성·검수 규칙 연결
 
 ![KimCookieYa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=KimCookieYa&show_icons=true&theme=default)
