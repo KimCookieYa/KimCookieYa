@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimcookieya/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:min49590@gmail.com)
 
-[Resume](./docs/김민석의-Resume.md) | [Portfolio](./docs/김민석의-Portfolio.md) (updated 2026.07.25)
+[Resume](./docs/김민석의%20Resume.pdf) | [Portfolio](./docs/김민석의%20Portfolio.pdf) (updated 2026.07.26)
 
 Next.js, React, TypeScript로 물류 서비스의 고객용 웹·운영 콘솔·운송관리 웹·기사 웹을 개발·운영합니다. 복잡한 운영 업무를 웹 UI로 구조화하고, 레거시를 점진적으로 현대화하며, 테스트·배포·보안·관측성·SEO까지 프론트엔드 시스템 전반을 개선합니다.
 
